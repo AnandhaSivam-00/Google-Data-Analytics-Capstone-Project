@@ -1,2 +1,3 @@
 # Google-Data-Analytics-Capstone-Project
-Contains only Presentation.
+
+https://www.kaggle.com/code/littleoriginal/google-data-analytics-case-study-bellabeat
